@@ -1,0 +1,25 @@
+
+.masthead {
+  height: 70vh;
+  min-height: 500px;
+  background-image: url('img/surf.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /*background-position-y: center;*/
+}
+
+
+section, footer{
+	margin-top: 7%;
+}
+
+/*
+.row {
+	border:1px solid black;
+}
+*/
+
+header {
+	color: white;
+}
